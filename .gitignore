@@ -12,5 +12,5 @@
 *.pro.sln
 *.qmake.stash
 Makefile*
-build-*/
+build/*
 
