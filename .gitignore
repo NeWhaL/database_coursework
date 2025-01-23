@@ -1,0 +1,16 @@
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+*.ncb
+*.sdf
+*.pro.user*
+*.pro.user
+*.pro.user.*
+*.pro.sln
+*.qmake.stash
+Makefile*
+build-*/
+

@@ -1,0 +1,620 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.c",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.c++",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.cc",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.ch",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.cpp",
+			"paths" : 
+			[
+				"/home/newhale/documents/projects/university/crud_coursework/adialog.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/atablemodel.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/CMakeFiles/3.31.3/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/CMakeFiles/3.31.4/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_adialog.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_authorization.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_dialog_discipline.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_dialog_teacher.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_form_connection_string.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_form_menu.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_mainwindow.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_sort_filter.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_table.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_table_model.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/EWIEGA46WW/moc_test_form.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/mocs_compilation.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/database_manager.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_auditorium.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_discipline.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_group.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_lecture.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_relationship_stream_group.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_relationship_teacher_discipline.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_stream.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_student.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_teacher.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/form_connection_string.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/form_menu.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/icrud.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/main.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/mainwindow.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_auditorium.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_discipline.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_group.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_lecture.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_relationship_stream_group.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_relationship_teacher_discipline.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_stream.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_student.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_teacher.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/sort_filter.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/table.cpp",
+				"/home/newhale/documents/projects/university/crud_coursework/test_form.cpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.cxx",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.h",
+			"paths" : 
+			[
+				"/home/newhale/documents/projects/university/crud_coursework/adialog.h",
+				"/home/newhale/documents/projects/university/crud_coursework/atablemodel.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_authorization.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_auditorium.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_discipline.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_group.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_lecture.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_relationship_stream_group.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_relationship_teacher_discipline.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_stream.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_student.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_dialog_teacher.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_form_connection_string.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_form_menu.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_mainwindow.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_table.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/include/ui_test_form.h",
+				"/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug/crud_coursework_autogen/moc_predefs.h",
+				"/home/newhale/documents/projects/university/crud_coursework/database_manager.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_auditorium.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_discipline.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_group.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_lecture.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_relationship_stream_group.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_relationship_teacher_discipline.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_stream.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_student.h",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_teacher.h",
+				"/home/newhale/documents/projects/university/crud_coursework/form_connection_string.h",
+				"/home/newhale/documents/projects/university/crud_coursework/form_menu.h",
+				"/home/newhale/documents/projects/university/crud_coursework/icrud.h",
+				"/home/newhale/documents/projects/university/crud_coursework/mainwindow.h",
+				"/home/newhale/documents/projects/university/crud_coursework/modal_window.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_auditorium.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_discipline.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_group.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_lecture.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_relationship_stream_group.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_relationship_teacher_discipline.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_stream.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_student.h",
+				"/home/newhale/documents/projects/university/crud_coursework/model_table_teacher.h",
+				"/home/newhale/documents/projects/university/crud_coursework/sort_filter.h",
+				"/home/newhale/documents/projects/university/crud_coursework/test_form.h",
+				"/home/newhale/documents/projects/university/crud_coursework/user.h"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.h++",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.hh",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.hpp",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.hxx",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.java",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.js",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.jui",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.qml",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.qrc",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.qs",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/newhale/documents/projects/university/crud_coursework/*.ui",
+			"paths" : 
+			[
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_auditorium.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_discipline.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_group.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_lecture.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_relationship_stream_group.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_relationship_teacher_discipline.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_stream.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_student.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/dialog_teacher.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/form_connection_string.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/form_menu.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/mainwindow.ui",
+				"/home/newhale/documents/projects/university/crud_coursework/test_form.ui"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.qtc/package-manager/auto-setup.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/CMakeFiles/3.31.4/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/CMakeFiles/3.31.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Linker/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QTsLibPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Sql/Qt5Sql_QIBaseDriverPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Sql/Qt5Sql_QMYSQLDriverPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Sql/Qt5Sql_QTDSDriverPlugin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/GNUInstallDirs.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/newhale/documents/projects/university/crud_coursework/build/Desktop-Debug",
+		"source" : "/home/newhale/documents/projects/university/crud_coursework"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
